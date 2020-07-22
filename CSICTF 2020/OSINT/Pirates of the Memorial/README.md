@@ -1,6 +1,6 @@
 <h1>Pirates of the Memorial</h1>
 
-<h2>Problem:</h2>
+<h2>Description:</h2>
 The original photographer of this picture commented the flag on his post. Find the flag.
 <h5>Given file:</h5> <a href="https://github.com/jarp01/CTF-Writeups/blob/master/CSICTF%202020/OSINT/Pirates%20of%20the%20Memorial/storm.jpeg">storm.jpeg</a>
 <br />
