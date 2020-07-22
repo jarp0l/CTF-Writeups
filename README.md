@@ -9,7 +9,7 @@ Wordpress blog: https://xpyarr0w.wordpress.com <br />
 <br />
 <hr>
 <br />
-List of CTFs that we have participated in so far (in chronological order):
+<strong>List of CTFs that we have participated in so far (in chronological order)</strong>:
   <ul>
       <li>TSG CTF 2020 </li>
       <li>rgbCTF 2020 </li>
