@@ -6,7 +6,7 @@ I love this watch. It's been with me all over the world, from Istanbul to Shangh
 <h5>Given file:</h5> <I>None</I><br />
 <hr>
 <h2>Solution:</h2>
-<p>Since I did not know a thing about any story of watch or a movie where such activity takes place. So I tried searching sometimes a small portion of the paragraph and sometimes the complete paragraph. I also searched the title. After some scrolling and reading I was sure that the title and the description hinted towards the James Bond movie <strong>Skyfall</strong>. I read the plot of the movie and found the name of the successor to James Bond's boss: Gareth Mallory. Hence the flag for this challenge was:
+<p>Since I did not know a thing about any story related to watch or a movie where such activity takes place, so I tried searching sometimes a small portion of the paragraph and sometimes the complete paragraph. I also searched the title. After some scrolling and reading I was sure that the title and the description hinted towards the James Bond movie <strong>Skyfall</strong>. I read the plot of the movie and found the name of the successor to James Bond's boss: Gareth Mallory. Hence the flag for this challenge was:
 </p>
 
 ```
