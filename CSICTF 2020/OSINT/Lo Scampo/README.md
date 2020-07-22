@@ -17,3 +17,11 @@ And the flag is:
 ```
 csictf{liberty_hotel_boston}
 ```
+<br />
+<I>
+I found that the follwing is also correct:
+</I>
+
+```
+csictf{liberty_hotel}
+```
