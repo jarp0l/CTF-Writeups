@@ -1,6 +1,6 @@
 <h1>Problem:</h1>
 The original photographer of this picture commented the flag on his post. Find the flag.
-<h5>Given file:</h5> [storm.jpeg](./storm.jpeg)
+<h5>Given file:</h5> [storm.jpeg](https://github.com/jarp01/CTF-Writeups/blob/master/CSICTF%202020/OSINT/Pirates%20of%20the%20Memorial/storm.jpeg)
 <br>
 <hr>
 <h1>Solution:</h1>
@@ -10,6 +10,6 @@ Uploading the given image on <code>images.google.com</code> shows the name of th
 After going through each of the suspicious websites, I found the original photographer's name (i.e. Arunopal Banerjee) in one of the replies in a tweet. Then I combined the original photographer's name along with the name of the place that Google had earlier suggested. This refined the search results showing more relevant tweets. Then following one of the tweets, I found the original photographer had mentioned his instagram username in his reply. As I did not have instagram account, I asked my teammate to confirm whether the photographer had the image in his account. Yes, he did, and the flag was in the same [instagram post](https://www.instagram.com/p/B3oKrLQgpko)! The flag was:
 <br>
 
-<code>
+```
 csictf{pl4g14r1sm_1s_b4d}
-</code>
+```
