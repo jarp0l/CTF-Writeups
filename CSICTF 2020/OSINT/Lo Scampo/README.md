@@ -19,7 +19,7 @@ csictf{liberty_hotel_boston}
 ```
 <br />
 <I>
-I found that the follwing is also correct:
+I found that the following is also correct:
 </I>
 
 ```
