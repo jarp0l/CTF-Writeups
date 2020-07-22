@@ -3,15 +3,17 @@ Collection of writeups for CTFs that our team has participated in (individual co
 <br />
 <hr>
 <br />
-Team: xPyArr0w | PyArr0w
-CTFTime: https://ctftime.org/team/127018
-Wordpress blog: https://xpyarr0w.wordpress.com
+Team: xPyArr0w | PyArr0w <br />
+CTFTime: https://ctftime.org/team/127018 <br />
+Wordpress blog: https://xpyarr0w.wordpress.com <br />
 <br />
 <hr>
 <br />
 List of CTFs that we have participated in so far (in chronological order):
-* TSG CTF 2020
-* rgbCTF 2020
-* Chujowy CTF 2020
-* UIUCTF 2020
-* CSICTF 2020
+  <ul>
+      <li>TSG CTF 2020 </li>
+      <li>rgbCTF 2020 </li>
+      <li>Chujowy CTF 2020 </li>
+      <li>UIUCTF 2020 </li>
+      <li>CSICTF 2020 </li>
+   <ul>
