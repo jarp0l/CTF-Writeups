@@ -9,11 +9,9 @@ Wordpress blog: https://xpyarr0w.wordpress.com <br />
 <br />
 <hr>
 <br />
-<strong>List of CTFs that we have participated in so far (in chronological order)</strong>:
-  <ul>
-      <li>TSG CTF 2020 </li>
-      <li>rgbCTF 2020 </li>
-      <li>Chujowy CTF 2020 </li>
-      <li>UIUCTF 2020 </li>
-      <li>CSICTF 2020 </li>
-   <ul>
+<strong>List of CTFs that we have participated in so far (in chronological order)</strong>:<br />
+      * TSG CTF 2020 <br />
+      * rgbCTF 2020 <br />
+      * Chujowy CTF 2020 <br />
+      * UIUCTF 2020 <br />
+      * CSICTF 2020 <br />
