@@ -2,7 +2,7 @@
 
 <h2>Description:</h2>
 Malcolm X took Broiestevane to a Day of the Dead themed party but she never returned. Her only friends, Mr Bean and the Pink Panther realised that she was missing when she didn't show up for an exam. Broiestevane liked posting pictures, where was the party held?
-(Don't forget to wrap your answer in csictf{})
+(Don't forget to wrap your answer in <code>csictf{}</code>)
 
 <h5>Given file:</h5> <I>None</I><br />
 <hr>
@@ -12,7 +12,7 @@ Malcolm X took Broiestevane to a Day of the Dead themed party but she never retu
 "I cant believe I missed my exam for this party :<br />
 https://www.instagram.com/p/B3pJE1CgMvI "
 
-Following this link there was the name of the place where the party took place: <h5>Liberty Hotel Boston</h5>
+Following this link there was the name of the place where the party was held: <h5>Liberty Hotel Boston</h5>
 And the flag is:
 </p>
 
