@@ -1,6 +1,6 @@
 <h1>Problem:</h1>
 The original photographer of this picture commented the flag on his post. Find the flag.
-<h5>Given file:</h5> [storm.jpeg](https://github.com/jarp01/CTF-Writeups/blob/master/CSICTF%202020/OSINT/Pirates%20of%20the%20Memorial/storm.jpeg)
+<h5>Given file:</h5> [storm.jpeg](https://github.com/jarp01/CTF-Writeups/blob/master/CSICTF 2020/OSINT/Pirates of the Memorial/storm.jpeg)
 <br />
 <hr>
 <h1>Solution:</h1>
