@@ -217,7 +217,7 @@ flag{hacker_powered_pentest}
 
 For the two above:
 
-[Screenshots](https://github.com/jarp01/CTF-Writeups/blob/master/HacktivityCon%20CTF%202020/files/_config.yml%2Bpentesters%20unite.png
+[Screenshots](https://github.com/jarp01/CTF-Writeups/blob/master/HacktivityCon%20CTF%202020/files/_config.yml%2Bpentesters%20unite.png)
 
 <hr>
 
