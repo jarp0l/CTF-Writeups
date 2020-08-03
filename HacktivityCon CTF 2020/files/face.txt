@@ -1,0 +1,58 @@
+👳👯👸👣👤🐡🐠👺👵👭🐠👢👪👢🐠👪👤🐡🐠👹👩👣👳👻👷👵👲👪👩👩👣👟👬👵👢👸👷👵👰👪👽
+
+
+
+
+person wearing turban => U+1F473
+people with bunny ears partying => U+1F46F
+princess => U+1F478
+footprints => U+1F463
+bust in silhouette => 64
+blowfish => 21
+tropical fish => 20
+japanese goblin => 7A
+older woman => 75
+two women holding hand => 6D
+tropical fish => 20
+boot => 62
+family => 6A
+boot => 62
+tropical fish => 20
+family => 6A
+bust in silhouette => 64
+blowfish => 21
+tropical fish => 20
+japanese ogre => 79
+woman => 69
+footprints => 63
+person wearing turban => 73
+ghost => 7B
+construction worker => 77
+older woman => 75
+man with chinese cap => 72
+family => 6A
+woman => 69
+woman => 69
+footprints => 63
+athletic shoe => 5F
+two men holding hands => 6C
+older woman => 75
+boot => 62
+princess => 78
+construction worker => 77
+older woman => 75
+bride with veil => 70
+family => 6A
+alien => 7D
+
+i.e.:
+73 6f 78 63 64 21 20 7a 75 6d 20 62 6a 62 20 6a 64 21 20 79 69 63 73 7b 77 75 72 6a 69 69 63 5f 6c 75 62 78 77 75 70 6a 7d
+
+
+text:
+soxcd! zum bjb jd! yics{wurjiic_lubxwupj}
+-------------------------------
+
+great! you did it! flag{mozilla_codemoji}
+
+
