@@ -17,7 +17,7 @@ flag{call_me_ishmael}
 ## World Hotspots:
 > What can you tell me about `9C:EF:D5:FB:9F:F0`?
 
-This took me a lot of time to figure out. After searching a lot I had still not been able to find the website where I could search for this BSSID to get the flag. All the websites when searched for it gave me the name of the vendor, but no device details. I even used (wigle)[https://wigle.net] but could not find the expected details. Later I asked my teammate and brother and he said that I had to search for it in `wigle` using "Advanced search", the only thing I had missed in that website! Screenshot in wigle: [here](/files/world_hotspots_flag.png)
+This took me a lot of time to figure out. After searching a lot I had still not been able to find the website where I could search for this BSSID to get the flag. All the websites when searched for it gave me the name of the vendor, but no device details. I even used [wigle](https://wigle.net) but could not find the expected details. Later I asked my teammate and brother and he said that I had to search for it in `wigle` using "Advanced search", the only thing I had missed in that website! Screenshot in wigle: [here](/files/world_hotspots_flag.png)
 
 ```
 flag{network_osint}
@@ -103,7 +103,7 @@ Since I had forgotten that I could simply scan the image using an online OCR too
 > `ssh -i id_rsa user@jh2i.com -p 50004`<br>
 > Given file: [id_rsa](/files/id_rsa)
 
-Entering the line `.....` with the identity file `id_rsa` I was able to get into the system, but I could not do much as the permission for `id_rsa`, file with private key for `ssh`, in my system was not what was expected. I tried multiple combinations for the expected correct permission, then I finally found the one: 400. Then it was just about reading the contents of the flag file for the flag.
+Entering the line `ssh -i id_rsa user@jh2i.com -p 50004` with the identity file `id_rsa` I was able to get into the system, but I could not do much as the permission for `id_rsa`, file with private key for `ssh`, in my system was not what was expected. I tried multiple combinations for the expected correct permission, then I finally found the one: 400. Then it was just about reading the contents of the flag file for the flag.
 
 ```
 flag{dont_ever_forget_that_newline}
@@ -217,7 +217,7 @@ flag{hacker_powered_pentest}
 
 For the two above:
 
-[Screenshots](/files/_config.yml+pentesters+unite.png)
+[Screenshots](https://github.com/jarp01/CTF-Writeups/blob/master/HacktivityCon%20CTF%202020/files/_config.yml%2Bpentesters%20unite.png
 
 <hr>
 
