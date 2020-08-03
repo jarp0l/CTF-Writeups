@@ -6,10 +6,10 @@
 For this challenge I searched for the username 'johnhammond' using `sherlock` (`python sherlock johnhammond`). After going through the results one by one and following the links to the doubtful websites, I came across `docker`, which had `whale_watching` repository. Without searching anywhere on the website I had begun downloading the repository. Since the download size was a bit large, I decided to check different places on the website waiting for the download to finish. Then I found the flag which you can see using the following link, and, yeah, I cancellled the download.
 
 [johnhammond/whale_watching](https://hub.docker.com/layers/johnhammond/whale_watching/latest/images/sha256-2b7db5e2796fbbd0616d5279b81f0ae151f4a52ad3e0325de7f583ce94848ddd?context=explore)
-    
-    ```
-    flag{call_me_ishmael}
-    ```
+
+```
+flag{call_me_ishmael}
+```
 
 <hr>
 
@@ -17,7 +17,7 @@ For this challenge I searched for the username 'johnhammond' using `sherlock` (`
 
 
 
-This took me a lot of time to figure out. After searching a lot I had still not been able to find the website where I could search for this BSSID to get the flag. All the websites when searched for it gave me the name of the vendor, but no device details. I even used ![wigle.net] but could not find the expected details. It was only when I asked my teammate and brother that he said that I had to search for it in `wigle` using "Advanced search", the only thing I had missed in that website!
+This took me a lot of time to figure out. After searching a lot I had still not been able to find the website where I could search for this BSSID to get the flag. All the websites when searched for it gave me the name of the vendor, but no device details. I even used (wigle)[https://wigle.net] but could not find the expected details. Later I asked my teammate and brother and he said that I had to search for it in `wigle` using "Advanced search", the only thing I had missed in that website!
 
 ```
 flag{network_osint}
@@ -67,7 +67,7 @@ flag{this_netcat_says_meow}
 
 
 
-I had to search for this encryption because I had never heard of it. So, after a little more search to find a way to decrypt this encryption(vim encryption), I came across a Python decryptor script from ## nilitse.. . Then I made a little change on the script: replaced `time.clock()` with `time.perf_counter()` as the former had been deprecated long Python versions ago. Finally, I started the bruteforce job with this script and a very good word-list that I found after searching for some time. The script was able to find the password after 77000 tries that lasted for more than 10 minutes, I guess. It also decrypted the given text which was the flag.
+I had to search for this encryption because I had never heard of it. So, after a little more search to find a way to decrypt this encryption(vim encryption), I came across a Python decryptor script from [nlitseme](https://github.com/nlitsme/vimdecrypt) . Then I made a little change on the script: replaced `time.clock()` with `time.perf_counter()` as the former had been deprecated long Python versions ago. Finally, I started the bruteforce job with this script and a very good word-list that I found after searching for some time. The script was able to find the password after 77000 tries that lasted for more than 10 minutes, I guess. It also decrypted the given text which was the flag.
 
 `password: computer`
 
@@ -89,7 +89,7 @@ flag{optical_hexadecimal_recognition_amirite}
 ```
 
 
-Since I had forgotten that I could simply scan the image using an online OCR tool to get the hex text easily, I wasted hours copying each charcter to my text editor. Point to remember for future.
+Since I had forgotten that I could simply scan the image using an online OCR tool to get the hex text easily, I wasted hours copying each character to my text editor. Point to remember for future.
 
 
 <hr>
@@ -128,9 +128,9 @@ flag{two_MAD_spies}
 
 
 
-The given file contains a line of emojis. I tried to understand the meaning of the emojis by writing the name/description of each of them as given in Discord. But it made no sense at all. Then I came across a site: ![emojipedia.org] which had a good amount of details of the emojis. It even had the codepoints for the emojis. Thus, I searched for each of the emojis in the site like this: `https://emojipedia.org/emoji/<emoji-here>` and noted down the codepoints of the emojis I searched for. The codepoints were in the form U+1F4xy, i.e. only the 'xy' part was different. So, I took out the 'xy' part and converted it into text.
+The given file contains a line of emojis. I tried to understand the meaning of the emojis by writing the name/description of each of them as given in Discord. But it made no sense at all. Then I came across a site: [emojipedia](https://emojipedia.org) which had a good amount of details of the emojis. It even had the codepoints for the emojis. Thus, I searched for each of the emojis in the site like this: `https://emojipedia.org/emoji/<emoji-here>` and noted down the codepoints of the emojis I searched for. The codepoints were in the form `U+1F4xy`, i.e. only the '`xy`' part was different. So, I took out the '`xy`' part and converted it into text.
 
-The 'xy' part I was talking about:
+The '`xy`' part I was talking about:
 
 ```
 73 6f 78 63 64 21 20 7a 75 6d 20 62 6a 62 20 6a 64 21 20 79 69 63 73 7b 77 75 72 6a 69 69 63 5f 6c 75 62 78 77 75 70 6a 7d
@@ -157,7 +157,7 @@ great! you did it! flag{mozilla_codemoji}
 Thus, the flag:
 
 ```
-    flag{mozilla_codemoji}
+flag{mozilla_codemoji}
 ```
     
     
@@ -168,8 +168,9 @@ Thus, the flag:
 # Miscellaneous:
 ## Pseudo:
 
-    flag{hmmm_that_could_be_a_sneaky_backdoor}
-    
+```
+flag{hmmm_that_could_be_a_sneaky_backdoor}
+``` 
     
 <hr>
 
@@ -194,7 +195,7 @@ The flags for a few others:
 
 
 on the last line at:
-![https://github.com/Hacker0x01/hacker101/blob/master/_config.yml]
+https://github.com/Hacker0x01/hacker101/blob/master/_config.yml
 
 ```
 flag{git_sh!t_d0ne}
@@ -205,7 +206,7 @@ flag{git_sh!t_d0ne}
 
 ## The Streamer:
 
-    [HackerOne TV about section in Twitch](https://www.twitch.tv/hackeronetv/about)
+[HackerOne TV about section in Twitch](https://www.twitch.tv/hackeronetv/about)
 
 ```
 flag{kappa_kappa_kappa}
@@ -227,7 +228,7 @@ flag{did_you_like_and_subscribe}
 
 ## One of us:
    
-![https://github.com/Hacker0x01/docs.hackerone.com/commit/a287c78e344d8195cf1f2ecc948b524cea6c7fd8]
+https://github.com/Hacker0x01/docs.hackerone.com/commit/a287c78e344d8195cf1f2ecc948b524cea6c7fd8
 
 ```
 flag{0ne_0f_1337_us}
@@ -238,7 +239,7 @@ flag{0ne_0f_1337_us}
 
 ## Penetesters Unite:
     
-![https://github.com/Hacker0x01/hacker101/commit/717281070979d2b32a1751643997e6411e6c0444]
+https://github.com/Hacker0x01/hacker101/commit/717281070979d2b32a1751643997e6411e6c0444
 
 ```
 flag{hacker_powered_pentest}
@@ -247,10 +248,10 @@ flag{hacker_powered_pentest}
 <hr>
 
 
-## <a href="in">:
+## \<a href="in">:
 
 Look at the 'About' section in LinkedIn, and click on 'See all':
-![https://www.linkedin.com/company/hackerone]
+https://www.linkedin.com/company/hackerone
 
 ```
 flag{www_hackerone_com_careers}
