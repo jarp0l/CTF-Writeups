@@ -32,7 +32,7 @@ flag{network_osint}
 > Caesar caesar, on the wall, who is the fairest of them all?<br> 
 > Given file+Solution: [caesarmirror.txt](/files/caesarmirror.txt)
 
-After applying Caesar cipher did not give much hope, I applied ROT13 to decipher the given text, which gave half readable English text and half like nonsense text. But after trying to make sense of the nonsense text I came to realize that it was English text in reverse direction or in Arabic style. So I ended up reversing the half part and got the flag. [Here is](/files/caesarmirror) what I got at last.
+To solve the challenge I applied Caesar Cipher with shift by 13 aka ROT13 to decipher the given text, which gave half readable English text and half like nonsense text. But after trying to make sense of the nonsense text I came to realize that it was English text in reverse direction or in Arabic style. So I ended up reversing the half part and got the flag. [Here is](/files/caesarmirror) what I got at last.
 
 ```
 flag{julius_in_a_reflection}
