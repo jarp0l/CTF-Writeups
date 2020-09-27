@@ -21,3 +21,16 @@ Remaining part is on the response header 'flag' (Developer tools -> Network -> r
 
 Complete flag:
 `darkctf{S0c1a1_D04k_w3b_051n7}`
+
+
+# Cryptography
+## Pipe Rhyme
+221 solves / 249 points
+### Description:
+So special
+
+File
+
+---
+
+### Solution:
